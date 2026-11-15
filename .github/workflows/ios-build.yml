@@ -16,7 +16,7 @@ jobs:
 
     env:
       # Pin a recent Xcode that ships with iOS 17 SDK.
-      DEVELOPER_DIR: /Applications/Xcode_15.4.app/Contents/Developer
+      DEVELOPER_DIR: /Applications/Xcode.app/Contents/Developer
       MOBILE_FRAMEWORK_NAME: DNSpireCore
       MOBILE_GO_PKG: ./mobile
       MOBILE_PREFIX: DNSpire
